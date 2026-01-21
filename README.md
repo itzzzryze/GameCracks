@@ -37,7 +37,6 @@ Here you are going to paste all the magnet links(of the games [Game list](GameLi
  ## step 5 
  depending on how many games you've chosen to download it'll open so many windows . (for me it was two so it opened two [lol]) 
  it might take a minute or two until you're game shows up on the right.Now select you're download folder and press ok
- ![grafik](https://user-images.githubusercontent.com/74117745/213691809-12202133-3e88-4784-a710-ba8ee684a3b6.png)
 
 
 ## Step 6 (almost done!)
